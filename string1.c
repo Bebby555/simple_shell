@@ -6,7 +6,7 @@
  * @src: the source
  *
  * Return: pointer to destination
- * By Gozie & Deborah
+ * By Gozie & Deborah Ebube
  */
 char *_strcpy(char *dest, char *src)
 {
