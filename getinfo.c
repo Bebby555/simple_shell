@@ -3,7 +3,7 @@
 /**
  * clear_info - initializes info_t struct
  * @info: struct address
- * By Deborah & Gozie
+ * By Deborah & Gozie Onwuegbusi
  */
 void clear_info(info_t *info)
 {
