@@ -2,7 +2,7 @@
 
 /**
  **_strncpy - copies a string
- *By Deborah & Gozie
+ *By Deborah & Gozie Onwuegbusi
  *@dest: the destination string to be copied to
  *@src: the source string
  *@n: the amount of characters to be copied
