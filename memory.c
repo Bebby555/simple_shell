@@ -5,7 +5,7 @@
  * @ptr: address of the pointer to free
  *
  * Return: 1 if freed, otherwise 0.
- * By Deborah & Gozie
+ * By Deborah & Gozie Onwuegbusi
  */
 int bfree(void **ptr)
 {
