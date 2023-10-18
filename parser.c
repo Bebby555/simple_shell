@@ -6,7 +6,7 @@
  * @path: path to the file
  *
  * Return: 1 if true, 0 otherwise
- * By Deborah & Gozie
+ * By Deborah & Gozie Onwuegbusi
  */
 int is_cmd(info_t *info, char *path)
 {
