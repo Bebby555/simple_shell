@@ -5,7 +5,7 @@
  * @s: the string whose length to check
  *
  * Return: integer length of string
- * By Deborah & Gozie
+ * By Deborah & Gozie Onwuegbusi
  */
 int _strlen(char *s)
 {
