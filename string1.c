@@ -5,7 +5,7 @@
  * @dest: the destination
  * @src: the source
  *
- * Return: pointer to destination
+ * Return: pointer to destinations
  * By Gozie & Deborah Ebube
  */
 char *_strcpy(char *dest, char *src)
