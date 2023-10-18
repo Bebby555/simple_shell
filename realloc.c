@@ -2,7 +2,7 @@
 
 /**
  **_memset - fills memory with a constant byte
- *By Deborah & Gozie
+ *By Deborah & Gozie Onwuegbusi
  *@s: the pointer to the memory area
  *@b: the byte to fill *s with
  *@n: the amount of bytes to be filled
