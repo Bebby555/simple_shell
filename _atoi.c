@@ -3,7 +3,7 @@
 /**
  * interactive - returns true if shell is interactive mode
  * @info: struct address
- * By Deborah & Gozie
+ * By Deborah & Gozie Onwuegbusi
  *
  * Return: 1 if interactive mode, 0 otherwise
  */
