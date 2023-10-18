@@ -7,7 +7,7 @@
  * @len: address of len var
  *
  * Return: bytes read
- * By Deborah & Gozie
+ * By Deborah & Gozie Onwuegbusi
  */
 ssize_t input_buf(info_t *info, char **buf, size_t *len)
 {
