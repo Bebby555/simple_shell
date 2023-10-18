@@ -4,7 +4,7 @@
  * _myenv - prints the current environment
  * @info: Structure containing potential arguments. Used to maintain
  * constant function prototype.
- * By Deborah & Gozie
+ * By Deborah & Gozie Onwuegbusi
  * Return: Always 0
  */
 int _myenv(info_t *info)
